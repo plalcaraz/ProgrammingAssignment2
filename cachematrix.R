@@ -1,11 +1,12 @@
 ## Two functions: makeCacheMatrix and cacheSolve. The objective is to calculate
-## the inverse of a matrix store its result and consult its value instead of 
+## the inverse of a matrix, store its result in order to consult its value instead of 
 ## calculating it again if needed
 ## 
 ##
 
-## makeCacheMatrix: input a matrix, output list a functions
-## set and get of the matrix, set and get of its inverse
+## makeCacheMatrix: input a matrix, output list a functions:
+## set and get of the matrix
+## set and get of its inverse
 ## NOTE: actually setsolve can be used to store any data, the functions do not perform a
 ## check for the inverse.
 
